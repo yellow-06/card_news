@@ -1,4 +1,5 @@
 # cardnews
-Browse the news in cards
+뉴스를 카드 형식으로 보여주는 프로그램입니다.
+yellow-06
 
-[Demo](https://goo.gl/MCUjLA)
+[Demo](https://yellow-06.github.io/card_news/)
